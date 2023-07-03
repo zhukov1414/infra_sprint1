@@ -1,5 +1,5 @@
 IP: 84.201.161.25;
-name_taski: (https://mytask.hopto.org);
-name_kittygram: (https://kittygrams123.ddns.net);
+name_taski: https://mytask.hopto.org;
+name_kittygram: https://kittygrams123.ddns.net;
 login: admin;
 password: admin;
