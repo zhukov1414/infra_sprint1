@@ -18,7 +18,7 @@
 	
 	SECRET_KEY=my-secret-key
 	DEBUG=True
-	DATABASE_URL=postgres://username:password@localhost:5432/dbname	
+	ALLOWED_HOSTS=postgres://username:password@localhost:5432/dbname	
  Вам необходимо создать файл `.env` в корневой директории проекта и определить в нем необходимые переменные настроек. 
  Убедитесь, что файл `.env` не добавлен в систему контроля версий (например, в `.gitignore`), чтобы избежать публикации ваших секретных данных.
 
